@@ -21,4 +21,4 @@ async def create_product(session: AsyncSession, product_id: ProductCreate) -> Pr
     await session.commit()
 
 
-#######4+ěč+č
+#
